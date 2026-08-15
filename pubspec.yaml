@@ -8,7 +8,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  image_picker: ^1.2.3
+  image_picker: ^1.2.1
   hive: ^2.2.3
   hive_flutter: ^1.1.0
   llama_cpp_dart: ^0.2.2
